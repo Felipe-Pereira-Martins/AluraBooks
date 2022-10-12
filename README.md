@@ -1,4 +1,4 @@
-##
+
 # AluraBooks! 👋 <a name="id01"></a>
 Projeto desenvolvido durante o meu aprendizado na Alura, na parte da formação de HTML e CSS. Projeto desenvolvido junto com a instrutora Monica Hillman no curso HTML e CSS: responsividade com mobile-first, no qual desenvolvemos um página do site AluraBooks, para as resoluções mobile e desktop.
 
@@ -7,6 +7,8 @@ Projeto desenvolvido durante o meu aprendizado na Alura, na parte da formação 
 - Site de Vendas de Livro da AluraBooks.
 - Link do Figma https://www.figma.com/file/sSMbIqKaGBd66Y8roxTk2p/AluraBooks
 
+# Deploy<a name="id02"></a>
+- Vercel https://alura-books-neon.vercel.app
 
 # Desenvolvimento do Projeto <a name="id02"></a> 
 - Projeto foi disponibilizado pela plataforma do Figma. 
