@@ -1,37 +1,29 @@
-<h1>AluraBooks</h1> 
-
-<p align="center">
-
-  
-
-
-   <img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
-
-</p>
-
-
+##
 
 ### Tópicos 
 
-:small_blue_diamond: [Descrição do projeto](#descrição-do-projeto)
+ :small_blue_diamond: [Descrição do projeto](#descrição-do-projeto)
 
-:small_blue_diamond: [Funcionalidades](#funcionalidades)
+ :small_blue_diamond: [Funcionalidades](#funcionalidades)
 
-:small_blue_diamond: [Deploy da Aplicação](#deploy-da-aplicação-dash)
+ :small_blue_diamond: [Deploy da Aplicação](#deploy-da-aplicação-dash)
 
-:small_blue_diamond: [Pré-requisitos](#pré-requisitos)
+ :small_blue_diamond: [Pré-requisitos](#pré-requisitos)
 
-:small_blue_diamond: [Como rodar a aplicação](#como-rodar-a-aplicação-arrow_forward)
+<h1>AluraBooks</h1> 
 
-... 
+<p align="center">
+   <img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
+
+</p>
 
 Insira os tópicos do README em links para facilitar a navegação do leitor
 
 ## Descrição do projeto 
 
 <p align="justify">
-
-  Descrição breve do projeto compondo um paragrafo ou dois. 
+Projeto desenvolvido durante o curso [HTML e CSS: responsividade com mobile-first], na plataforma da Alura, ministrado pela instrutora Mônica Hillman
+   
 
 </p>
 
@@ -45,7 +37,7 @@ Insira os tópicos do README em links para facilitar a navegação do leitor
 
 :heavy_check_mark: Funcionalidade 4  
 
-## Deploy da Aplicaçåo  :dash:
+## Deploy da Aplicação :dash:
 • Deploy = https://alura-books-neon.vercel.app/
 
 
