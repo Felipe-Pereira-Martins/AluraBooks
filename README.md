@@ -45,9 +45,10 @@ Insira os tópicos do README em links para facilitar a navegação do leitor
 
 :heavy_check_mark: Funcionalidade 4  
 
-## Deploy // Screenshot  :dash:
+## Deploy da Aplicaçåo  :dash:
+• Deploy = https://alura-books-neon.vercel.app/
 
-> Link do deploy da aplicação. Exemplo com netlify: https://certificates-for-everyone-womakerscode.netlify.app/
+
 
 ... 
 
