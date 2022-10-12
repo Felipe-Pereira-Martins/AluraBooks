@@ -5,6 +5,7 @@ Projeto desenvolvido durante o meu aprendizado na Alura, na parte da formação 
 # Proposta do Projeto <a name="id02"></a>
 - Projeto desenvolvido, para trabalhar com a responsividade web para smartphone, Tablet e desktop.
 - Site de Vendas de Livro da AluraBooks.
+- Link do Figma https://www.figma.com/file/sSMbIqKaGBd66Y8roxTk2p/AluraBooks
 
 
 # Desenvolvimento do Projeto <a name="id02"></a> 
