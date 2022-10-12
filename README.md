@@ -45,7 +45,7 @@ Insira os tópicos do README em links para facilitar a navegação do leitor
 
 :heavy_check_mark: Funcionalidade 4  
 
-## Layout ou Deploy da Aplicação :dash:
+## Deploy // Screenshot  :dash:
 
 > Link do deploy da aplicação. Exemplo com netlify: https://certificates-for-everyone-womakerscode.netlify.app/
 
