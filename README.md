@@ -1,6 +1,7 @@
 
 # AluraBooks! 👋 <a name="id01"></a>
-Projeto desenvolvido durante o meu aprendizado na Alura, na parte da formação de HTML e CSS. Projeto desenvolvido junto com a instrutora Monica Hillman no curso HTML e CSS: responsividade com mobile-first, no qual desenvolvemos um página do site AluraBooks, para as resoluções mobile e desktop.
+Projeto desenvolvido com a Alura, junto com a instrutora Monica Hillman no curso HTML e CSS: responsividade com mobile-first,
+ no qual desenvolvemos um página do site AluraBooks, para os dispositivos mobile e desktop.
 
 # Proposta do Projeto <a name="id02"></a>
 - Projeto desenvolvido, para trabalhar com a responsividade web para smartphone, Tablet e desktop.
@@ -13,7 +14,7 @@ Projeto desenvolvido durante o meu aprendizado na Alura, na parte da formação 
 # Desenvolvimento do Projeto <a name="id02"></a> 
 - Projeto foi disponibilizado pela plataforma do Figma. 
 
-- Desenvolver para o layout Web 1728, layout Tablet 1028 smartphomne 485. 
+- Desenvolver para o layout Web 1728, layout Tablet 1024 smartphone 485. 
 
 - Criação do Menu-Hamburguer, somente com HTMl e CSS, sem o uso de JavaScript. 
 
